@@ -1,5 +1,5 @@
 ## odBasualdo
-This is my first website, made by myselffor codoacodo course and  
+This is my first website, made by myself for codoacodo course and  
 I have a lot to improve but to start walking yo need to make a first step and It's mine
 
 I would like to give thanks to:  
