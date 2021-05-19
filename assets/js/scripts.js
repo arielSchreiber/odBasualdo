@@ -47,13 +47,3 @@ window.onload = window.onresize = function () {
     }
   }
 };
-
-// window.onload = window.onresize = function () {
-//   let iframeServ = document.getElementById('iframeServ');
-//   if (iframeServ) {
-//     let inIframe = iframeServ.contentWindow;
-//     let altoIframe = inIframe.document.body.scrollHeight;
-//     let nuevoAlto = altoIframe * 1.02 + 'px';
-//     iframeServ.style.height = nuevoAlto;
-//   }
-// };
